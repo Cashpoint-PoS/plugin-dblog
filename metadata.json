@@ -1,10 +1,14 @@
 {
   "name":"dblog",
+  "desc":"CashPoint DB Log",
   "version":"git",
   "deps":[
     
   ],
   "tables":[
-  	"log"
+    "log"
   ],
+  "tableRevs":{
+    "log":0
+  }
 }
